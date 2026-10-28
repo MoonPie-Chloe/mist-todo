@@ -26,7 +26,7 @@
 
 ## 下载和使用
 
-1. 打开本仓库的 [Releases 页面](../../releases)，下载最新版本里的 `GlassTodo.exe`
+1. 打开本仓库的 [Releases 页面](../../releases)，下载 `mist-todo-v0.2.0-beta.exe`
 2. 双击运行即可，不需要安装
 3. 系统要求：Windows 10 / 11（Windows 11 一般自带所需组件；如果 Windows 10 上双击没反应，请安装微软的 [WebView2 运行时](https://developer.microsoft.com/microsoft-edge/webview2/)）
 
