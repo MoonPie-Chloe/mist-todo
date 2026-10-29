@@ -20,11 +20,12 @@
 - **早上开工简报**：每天第一次解锁电脑时，帮你看一眼今天的安排
 - **勿扰**：系统开着"请勿打扰"时不弹通知，结束后补上；也可以暂停提醒 1 小时
 - **撤销**：完成、删除、移动之后 3 秒内可以撤销
-- **数据在本地**：所有任务只保存在你自己的电脑上（`%APPDATA%\com.misttodo.app\`），不联网、不上传
+- **检查更新**：第一次打开时问你要不要自动检查；有新版本时在列表上方提示，点一下就能去下载页（不会自动下载安装）
+- **数据在本地**：任务数据只存本地（`%APPDATA%\com.misttodo.app\`）、从不上传；开启自动检查更新时会访问 GitHub（GitHub 会看到访问来源的 IP）
 
 ## 下载和使用
 
-1. 打开本仓库的 [Releases 页面](../../releases)，下载 `mist-todo-v0.2.1-beta.exe`
+1. 打开本仓库的 [Releases 页面](../../releases)，下载 `mist-todo-v0.2.2-beta.exe`
 2. 双击运行即可，不需要安装
 3. 系统要求：Windows 10 / 11（Windows 11 一般自带所需组件；如果 Windows 10 上双击没反应，请安装微软的 [WebView2 运行时](https://developer.microsoft.com/microsoft-edge/webview2/)）
 
