@@ -2,6 +2,11 @@
 
 一个贴在 Windows 桌面上的毛玻璃待办小组件：平时安静地停在桌面层，按一下快捷键就能叫出来记事。
 
+[![下载最新版](https://img.shields.io/github/v/release/MoonPie-Chloe/mist-todo?include_prereleases&label=%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88&style=for-the-badge&color=4c9a6a)](https://github.com/MoonPie-Chloe/mist-todo/releases/latest)
+![总下载量](https://img.shields.io/github/downloads/MoonPie-Chloe/mist-todo/total?label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&style=for-the-badge)
+
+👆 点绿色按钮 → 下载 `.exe` 文件 → 双击就能用（仅支持 Windows 10/11，免安装）
+
 ## 截图
 
 ![待完成](images/todo.png)
@@ -28,7 +33,7 @@
 
 ## 下载和使用
 
-1. 打开本仓库的 [Releases 页面](../../releases)，下载 `mist-todo-v0.3.1-beta.exe`
+1. 点这里打开 [最新版下载页](https://github.com/MoonPie-Chloe/mist-todo/releases/latest)，下载 `.exe` 文件
 2. 双击运行即可，不需要安装
 3. 系统要求：Windows 10 / 11（Windows 11 一般自带所需组件；如果 Windows 10 上双击没反应，请安装微软的 [WebView2 运行时](https://developer.microsoft.com/microsoft-edge/webview2/)）
 
@@ -65,4 +70,4 @@
 
 ## 关注更新
 
-📮 更新预告、使用技巧和新功能投票，会先发在小红书 @Moon Pie，欢迎来提需求～
+📮 更新预告、使用技巧和新功能投票，会先发在小红书「Moon Pie」，欢迎来提需求～
