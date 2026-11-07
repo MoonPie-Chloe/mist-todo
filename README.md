@@ -7,8 +7,6 @@
 
 👆 点绿色按钮 → 下载 `.exe` 文件 → 双击就能用（仅支持 Windows 10/11，免安装）
 
-打不开 GitHub 的话，可以用国内网盘下载：[夸克网盘](https://pan.quark.cn/s/9e5215e07349)（与 GitHub 同步更新）
-
 ## 截图
 
 ![待完成](images/todo.png)
