@@ -7,6 +7,8 @@
 
 👆 点绿色按钮 → 下载 `.exe` 文件 → 双击就能用（仅支持 Windows 10/11，免安装）
 
+打不开 GitHub 的话，可以用国内网盘下载：[夸克网盘](https://pan.quark.cn/s/8d2bf748d37f)（与 GitHub 同步更新）。网盘里是压缩包，请先解压，把 `mist-todo.exe` 放到固定的文件夹（比如 `D:\Tools\Mist Todo`）再运行；不要在压缩包里直接双击，否则开机自启会失效。
+
 ## 截图
 
 ![待完成](images/todo.png)
